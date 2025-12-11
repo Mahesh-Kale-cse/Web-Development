@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/Web%20Development-Learning-blue?style=for-the-badge" alt="Badge" />
 
 <p align="center">
-  <img src="https://www.freepik.com/free-vector/web-development-isometric-landing-page-coding_8548812.htm#fromView=keyword&page=2&position=0&uuid=fbcf2eec-e29a-4729-a2d9-8962373d356a&query=Web+development+banner" alt="Web Development Banner" />
+  <img src="assets/banner.png" alt="Mahesh Kale Web Development Banner" />
 </p>
 
 ## 📘 About This Repository
