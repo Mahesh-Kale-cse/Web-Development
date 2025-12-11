@@ -2,10 +2,8 @@
 <img src="https://img.shields.io/badge/Web%20Development-Learning-blue?style=for-the-badge" alt="Badge" />
 
 <p align="center">
-  <img src="https://via.placeholder.com/1000x250.png?text=Mahesh%20Kale%20Web%20Dev" alt="Mahesh Kale Web Development Banner" />
+  <img src="[DIRECT_IMAGE_URL_HERE](https://www.freepik.com/premium-vector/vector-illustration-flat-computing-background-programming-coding-web-development-search-engine_115247452.htm#fromView=keyword&page=3&position=19&uuid=fbcf2eec-e29a-4729-a2d9-8962373d356a&query=Web+development+banner)" alt="Web Development Banner" />
 </p>
-
-
 
 ## 📘 About This Repository
 This repository contains all my **daily tasks, exercises, and practice projects** from my web development course.  
