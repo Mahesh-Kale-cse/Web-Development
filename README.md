@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/Web%20Development-Learning-blue?style=for-the-badge" alt="Badge" />
 
 <p align="center">
-  <img src="assets/banner.png" alt="Mahesh Kale Web Development Banner" />
+  <img src="assets/banner.jpg" alt="Mahesh Kale Web Development Banner" />
 </p>
 
 ## 📘 About This Repository
