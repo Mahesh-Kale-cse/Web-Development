@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/Web%20Development-Learning-blue?style=for-the-badge" alt="Badge" />
 
 <p align="center">
-  <img src="[DIRECT_IMAGE_URL_HERE](https://www.freepik.com/premium-vector/vector-illustration-flat-computing-background-programming-coding-web-development-search-engine_115247452.htm#fromView=keyword&page=3&position=19&uuid=fbcf2eec-e29a-4729-a2d9-8962373d356a&query=Web+development+banner)" alt="Web Development Banner" />
+  <img src="https://www.freepik.com/free-vector/web-development-isometric-landing-page-coding_8548812.htm#fromView=keyword&page=2&position=0&uuid=fbcf2eec-e29a-4729-a2d9-8962373d356a&query=Web+development+banner" alt="Web Development Banner" />
 </p>
 
 ## 📘 About This Repository
