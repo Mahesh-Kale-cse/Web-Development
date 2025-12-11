@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/Web%20Development-Learning-blue?style=for-the-badge" alt="Badge" />
 
 <p align="center">
-  <img src="https://via.placeholder.com/1000x250.png?text=Web+Development+Daily+Practice" alt="Web Development Banner" />
+  <img src="https://via.placeholder.com/1000x250.png?text=Mahesh+Kale+-+Web+Development+Daily+Practice" alt="Mahesh Kale Web Development Banner" />
 </p>
 
 ## 📘 About This Repository
